@@ -6,8 +6,8 @@ body{
 .book-library{
 	background-color:#ffffff;
 }
-.h{
-	color:black;
+.h2{
+	color:#777777;
 }
 .i{
 	 display: block;
@@ -17,5 +17,5 @@ body{
 }
 .book{
 	margin-top:20px;
-	background-color: #ffffff;
+/* 	background-color: #ffffff; */
 }
